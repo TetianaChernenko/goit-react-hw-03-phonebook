@@ -1,0 +1,21 @@
+.contactsList {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.contactsItem {
+    margin-top: 10px;
+}
+
+.contactsBtn {
+    width: 60px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+
+.contactsBtn:hover,
+.contactsBtn:focus {
+    background-color: rgb(81, 189, 189);
+}

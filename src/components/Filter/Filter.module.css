@@ -1,0 +1,16 @@
+.label {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.input {
+    font-size: 18px;
+    padding: 5px;
+    outline: 2px solid rgba(0, 0, 0, 0.1);
+    width: 180px;
+}
